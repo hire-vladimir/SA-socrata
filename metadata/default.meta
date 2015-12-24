@@ -1,0 +1,11 @@
+[]
+access = read : [ * ], write : [ admin, power ]
+
+#lets make command global
+[commands/socrata]
+access = read : [ * ], write : [ admin ]
+export = system
+
+[searchbnf/socrata-command]
+access = read : [ * ], write : [ admin ]
+export = system

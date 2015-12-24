@@ -1,0 +1,17 @@
+<dashboard>
+  <label>Overview</label>
+
+  <row>
+    <panel>
+      <title>Welcome</title>
+      <html>
+        <p><b>socrata</b> command for Splunk allows import of datasets found on <a href="https://opendata.socrata.com/" target="_blank">https://opendata.socrata.com/</a> and <a href="http://www.opendatanetwork.com" target="_blank">http://www.opendatanetwork.com</a> directly into Splunk for further processing and analysis. Gain instant access to many unique databases!</p>
+        <br />
+        <p>For usage detail, please visit <a href="https://github.com/hire-vladimir/SA-socrata" target="_blank">https://github.com/hire-vladimir/SA-socrata</a></p>
+        <br />
+        <h2>Example</h2>
+        <p>Please see following dashboard for live demo example <a href="film_locations_sf">here</a></p>
+      </html>
+    </panel>
+  </row>
+</dashboard>
